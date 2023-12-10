@@ -1,0 +1,136 @@
+{
+  "Admin": [
+    {
+      "type": "Admin",
+      "Username": "fsd",
+      "email": "barunkhan1234@gmail.com",
+      "pass": "123",
+      "cpass": "123",
+      "id": 1
+    },
+    {
+      "type": "Admin",
+      "Username": "marevl",
+      "email": "marvelkingself001@gmail.com",
+      "pass": "123",
+      "cpass": "123",
+      "id": 2
+    },
+    {
+      "type": "Admin",
+      "Username": "3645",
+      "email": "barunkhan1234@gmail.com",
+      "pass": "123",
+      "cpass": "123",
+      "id": 3
+    },
+    {
+      "type": "Admin",
+      "Username": "hello",
+      "email": "marvelkingself001@gmail.com",
+      "pass": "789",
+      "cpass": "789",
+      "id": 4
+    },
+    {
+      "type": "Admin",
+      "Username": "Abdul",
+      "email": "barunkhan1234@gmail.com",
+      "pass": "123",
+      "cpass": "123",
+      "id": 5
+    }
+  ],
+  "Employee": [
+    {
+      "name": "Abdul Baroon",
+      "email": "barunkhan1234@gmail.com",
+      "phone": "09336384535",
+      "city": "tilhar",
+      "age": "23",
+      "Username": "khan1",
+      "pass": "123",
+      "type": "employee",
+      "routine": [],
+      "attendence": [
+        {
+          "id": 1,
+          "date": "2023-12-07",
+          "Attendence": "Present"
+        }
+      ],
+      "status": "Dactive",
+      "id": 3
+    },
+    {
+      "name": "ds",
+      "email": "sgjnsknklm@gmail.com",
+      "phone": "09336384535",
+      "city": "123",
+      "age": "5",
+      "Username": "khan2",
+      "pass": "123",
+      "type": "employee",
+      "routine": [
+        {
+          "id": 1,
+          "date": "2023-12-09",
+          "t10_12": "h",
+          "t12_2": "56+",
+          "t2_4": "+"
+        }
+      ],
+      "attendence": [
+        {
+          "id": 1,
+          "date": "2023-12-06",
+          "Attendence": "Absent"
+        }
+      ],
+      "status": "Active",
+      "id": 4
+    },
+    {
+      "name": "raja",
+      "email": "sdhgfjfsdjk@gmail.com",
+      "phone": "09336384535",
+      "city": "tilhar",
+      "age": "23",
+      "Username": "raja12",
+      "pass": "32",
+      "type": "employee",
+      "routine": [],
+      "attendence": [],
+      "status": "Active",
+      "id": 6
+    },
+    {
+      "name": "rajkumar",
+      "email": "sdhgfjfsdjk@gmail.com",
+      "phone": "09336384535",
+      "city": "tilhar",
+      "age": "23",
+      "Username": "rajkumar",
+      "pass": "123",
+      "type": "employee",
+      "routine": [
+        {
+          "id": 1,
+          "date": "2023-12-11",
+          "t10_12": "calling",
+          "t12_2": "hireing",
+          "t2_4": "codimg"
+        }
+      ],
+      "attendence": [
+        {
+          "id": 1,
+          "date": "2023-12-10",
+          "Attendence": "Present"
+        }
+      ],
+      "status": "Active",
+      "id": 7
+    }
+  ]
+}
